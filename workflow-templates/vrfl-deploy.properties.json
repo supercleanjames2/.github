@@ -1,0 +1,13 @@
+{
+  "name": "VRFL Deploy Workflow",
+  "description": "Automated build and deployment workflow for Virtual Robot Football League (VRFL) applications.",
+  "iconName": "rocket",
+  "categories": [
+    "Deployment",
+    "Node.js",
+    "Web Application"
+  ],
+  "filePatterns": [
+    "package.json"
+  ]
+}
