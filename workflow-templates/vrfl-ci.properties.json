@@ -1,0 +1,14 @@
+{
+  "name": "VRFL CI Workflow",
+  "description": "Continuous integration workflow for VRFL applications with linting, type checking, and build verification.",
+  "iconName": "check-circle",
+  "categories": [
+    "CI",
+    "Node.js",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "package.json",
+    "tsconfig.json"
+  ]
+}
